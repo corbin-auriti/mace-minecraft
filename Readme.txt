@@ -4,6 +4,9 @@
     | \_/ || o ( (_ | _| 
     |_| |_||_n_|\__||___|
 	---------------------
+	This is backup copy of the Mace source code project as Google Code was shut down.
+
+	--Please note this hasn't been updated since Sep 5, 2012, so while it works with the current version of Minecraft as         of October 2016, it may not work in the future if the level format is changed or the Java version is ditched in favor         of the Windows 10/C++ version--
 
         Mace is a tool for creating Minecraft worlds with
           randomly generated cities.
@@ -35,10 +38,9 @@
 
         Thread
         http://www.minecraftforum.net/topic/357201-mace-v17-random-city-generator/
-
-        Project Site
-        http://code.google.com/p/mace-minecraft/
-
+	
+	Archived Thread
+	http://web.archive.org/save/_embed/http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-tools/1261630-mace-v1-11-2-random-cities-generator
 
 This information is available in other places, but I've decided to put it all here to comply with the [http://www.minecraftforum.net/forum-42/announcement-45-section-specific-rules-read-this-first-12th-august-2011/ forum regulations].
 
