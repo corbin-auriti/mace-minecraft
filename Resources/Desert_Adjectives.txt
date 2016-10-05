@@ -1,0 +1,11 @@
+﻿Arid
+Barren
+Blistering
+Dusty
+Eroded
+Harsh
+Prickly
+Rocky
+Sandy
+Stinging
+Sunny

@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<buildings>
+
+  <!-- desert -->
+
+  <!-- medieval (and some novv) -->
+
+  <building>
+    <name>Windmill</name>
+    <size>19</size>
+    <source_x>86</source_x>
+    <source_z>7</source_z>
+    <frequency>very common</frequency>
+    <unique>yes</unique>
+    <type>farm</type>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Barn</name>
+    <size>15</size>
+    <source_x>169</source_x>
+    <source_start_y>60</source_start_y>
+    <source_z>67</source_z>
+    <frequency>rare</frequency>
+    <type>farm</type>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Mushroom Farm</name>
+    <size>15</size>
+    <source_x>139</source_x>
+    <source_start_y>40</source_start_y>
+    <source_z>48</source_z>
+    <frequency>average</frequency>
+    <type>farm</type>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Wheat Farm Building</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_z>178</source_z>
+    <frequency>common</frequency>
+    <type>farm</type>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Large Cactus Farm</name>
+    <size>14</size>
+    <source_x>125</source_x>
+    <source_z>33</source_z>
+    <frequency>very common</frequency>
+    <type>farm</type>
+    <tags>medieval desert</tags>
+  </building>
+  <building>
+    <name>Small Cactus Farm</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_z>105</source_z>
+    <frequency>very common</frequency>
+    <type>farm</type>
+    <tags>medieval desert</tags>
+  </building>
+  <building>
+    <name>Large Wheat Farm</name>
+    <size>15</size>
+    <source_x>139</source_x>
+    <source_z>33</source_z>
+    <frequency>very common</frequency>
+    <type>farm</type>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Small Wheat Farm Duplicate</name>
+    <size>7</size>
+    <source_x>55</source_x>
+    <source_z>33</source_z>
+    <frequency>average</frequency>
+    <type>farm</type>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Oak Orchard</name>
+    <size>16</size>
+    <source_x>154</source_x>
+    <source_z>33</source_z>
+    <frequency>common</frequency>
+    <type>farm</type>
+    <tags>medieval novv</tags>
+  </building>
+  <building>
+    <name>Spruce Orchard</name>
+    <size>16</size>
+    <source_x>154</source_x>
+    <source_z>49</source_z>
+    <frequency>common</frequency>
+    <type>farm</type>
+    <tags>medieval novv</tags>
+  </building>
+  <building>
+    <name>Birch Orchard</name>
+    <size>16</size>
+    <source_x>154</source_x>
+    <source_z>65</source_z>
+    <frequency>common</frequency>
+    <type>farm</type>
+    <tags>medieval novv</tags>
+  </building>
+  <building>
+    <name>Pumpkin Farm</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_z>114</source_z>
+    <frequency>rare</frequency>
+    <type>farm</type>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Melon Farm</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_z>123</source_z>
+    <frequency>rare</frequency>
+    <type>farm</type>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Sugar Cane Farm</name>
+    <size>14</size>
+    <source_x>125</source_x>
+    <source_z>47</source_z>
+    <frequency>common</frequency>
+    <type>farm</type>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Huge Mushroom Farm</name>
+    <size>14</size>
+    <source_x>125</source_x>
+    <source_z>61</source_z>
+    <frequency>common</frequency>
+    <type>farm</type>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Animal Farm</name>
+    <size>16</size>
+    <source_x>154</source_x>
+    <source_z>81</source_z>
+    <frequency>very common</frequency>
+    <type>farm</type>
+    <tags>medieval novv</tags>
+  </building>
+  <building>
+    <name>Rotation Contraption 2.0</name>
+    <size>15</size>
+    <source_x>139</source_x>
+    <source_z>63</source_z>
+    <frequency>exclude</frequency>
+    <type>farm</type>
+    <tags>medieval</tags>
+  </building>
+  
+  <!-- novv -->
+
+  <building>
+    <name>windmill</name>
+    <size>15</size>
+    <source_x>-84</source_x>
+    <source_z>26</source_z>
+    <frequency>rare</frequency>
+    <type>farm</type>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>smallbarn</name>
+    <size>18</size>
+    <source_x>-60</source_x>
+    <source_z>153</source_z>
+    <frequency>common</frequency>
+    <type>farm</type>
+    <tags>novv</tags>
+  </building>
+  
+</buildings>

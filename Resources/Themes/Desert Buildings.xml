@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<theme>
+
+  <include>
+    <farms>no</farms>
+    <moat>yes</moat>
+    <walls>yes</walls>
+    <drawbridges>yes</drawbridges>
+    <guard_towers>yes</guard_towers>
+    <buildings>yes</buildings>
+    <paths>yes</paths>
+    <main_streets>yes</main_streets>
+    <mineshaft>yes</mineshaft>
+    <emblems>yes</emblems>
+    <outside_lights>yes</outside_lights>
+    <guard_towers_addition>yes</guard_towers_addition>
+    <flowers>yes</flowers>
+    <sky_feature>no</sky_feature>
+    <street_lights>yes</street_lights>
+    <torches_on_walkways>yes</torches_on_walkways>
+  </include>
+
+  <options>
+    <moat>Cactus,Drop to Bedrock</moat>
+    <street_lights>Glowstones,Torches</street_lights>
+    <emblem>Ankh,Cobweb,Cross,Heart,Pride Flag,Shield,Yin and Yang</emblem>
+    <outside_lights>Fire,Torches</outside_lights>
+    <tower_addition>Fire beacon,Flag</tower_addition>
+    <flowers>32_0,81_0</flowers>
+    <flower_percent>15</flower_percent>
+    <underground>1,3,12,12,13,24</underground>
+    <wall_material>24_0</wall_material>
+    <path>sandstone_raised,stone_raised,stonebrick</path>
+    <city_size>7,9,11,13</city_size>
+    <farm_size>0</farm_size>
+    <ground_block>12_0</ground_block>
+    <city_prefix>City of </city_prefix>
+    <city_prefix_file>Desert_Adjectives.txt</city_prefix_file>
+    <city_suffix_file>Desert_Nouns.txt</city_suffix_file>
+    <biome>desert</biome>
+    <building_frequency>default</building_frequency>
+    <farm_building_frequency>default</farm_building_frequency>
+  </options>
+
+  <buildings>
+    <building>
+      <name>Small Sandstone House</name>
+      <size>8</size>
+      <source_x>62</source_x>
+      <source_z>73</source_z>
+      <frequency>very common</frequency>
+    </building>
+    <building>
+      <name>Medium Sandstone House</name>
+      <size>13</size>
+      <source_x>112</source_x>
+      <source_z>150</source_z>
+      <frequency>common</frequency>
+    </building>
+    <building>
+      <name>Mosque</name>
+      <size>13</size>
+      <source_x>112</source_x>
+      <source_z>59</source_z>
+      <frequency>average</frequency>
+    </building>
+    <building>
+      <name>Pyramid</name>
+      <size>12</size>
+      <source_x>100</source_x>
+      <source_start_y>50</source_start_y>
+      <source_z>93</source_z>
+      <frequency>rare</frequency>
+    </building>
+    <building>
+      <name>Large Sandstone House</name>
+      <size>10</size>
+      <source_x>79</source_x>
+      <source_z>103</source_z>
+      <frequency>common</frequency>
+    </building>
+    <building>
+      <name>Local Shop</name>
+      <size>9</size>
+      <source_x>70</source_x>
+      <source_z>132</source_z>
+      <frequency>common</frequency>
+    </building>
+    <building>
+      <name>Sandstone House with Walls</name>
+      <size>13</size>
+      <source_x>112</source_x>
+      <source_z>137</source_z>
+      <frequency>rare</frequency>
+    </building>
+    <building>
+      <name>Sandstone House with Stairs</name>
+      <size>10</size>
+      <source_x>79</source_x>
+      <source_z>113</source_z>
+      <frequency>common</frequency>
+    </building>
+    <building>
+      <name>Large Compound</name>
+      <size>17</size>
+      <source_x>170</source_x>
+      <source_z>33</source_z>
+      <frequency>rare</frequency>
+    </building>
+
+    <!-- the size of mineshaft entrances should be an odd number -->
+    <building>
+      <name>Ghostdancer's Creeper Sandstone Mineshaft Entrance</name>
+      <size>7</size>
+      <source_x>55</source_x>
+      <source_z>54</source_z>
+      <frequency>very common</frequency>
+      <type>mineshaft_entrance</type>
+    </building>
+
+    <!-- mineshaft sections above 7x7 are currently buggy - i'll fix this in a future version -->
+
+    <building>
+      <name>Mineshaft Water Pool</name>
+      <source_x>2</source_x>
+      <source_z>138</source_z>
+      <size_x>7</size_x>
+      <size_z>7</size_z>
+      <pattern>??? ?1? ???</pattern>
+      <pattern_position_x>1</pattern_position_x>
+      <pattern_position_z>1</pattern_position_z>
+      <frequency1>very common</frequency1>
+      <frequency2>common</frequency2>
+      <frequency3>common</frequency3>
+      <frequency4>average</frequency4>
+      <frequency5>rare</frequency5>
+      <frequency6>very rare</frequency6>
+      <frequency7>exclude</frequency7>
+      <type>mineshaft_section</type>
+    </building>
+    <building>
+      <name>Mineshaft Lava Pool</name>
+      <source_x>10</source_x>
+      <source_z>138</source_z>
+      <size_x>7</size_x>
+      <size_z>7</size_z>
+      <pattern>??? ?1? ???</pattern>
+      <pattern_position_x>1</pattern_position_x>
+      <pattern_position_z>1</pattern_position_z>
+      <frequency1>exclude</frequency1>
+      <frequency2>very rare</frequency2>
+      <frequency3>rare</frequency3>
+      <frequency4>average</frequency4>
+      <frequency5>common</frequency5>
+      <frequency6>common</frequency6>
+      <frequency7>common</frequency7>
+      <type>mineshaft_section</type>
+    </building>
+    <building>
+      <name>Mineshaft Mushroom Farm</name>
+      <source_x>18</source_x>
+      <source_z>138</source_z>
+      <size_x>7</size_x>
+      <size_z>7</size_z>
+      <pattern>??? 01? ???</pattern>
+      <pattern_position_x>1</pattern_position_x>
+      <pattern_position_z>1</pattern_position_z>
+      <frequency1>very common</frequency1>
+      <frequency2>common</frequency2>
+      <frequency3>average</frequency3>
+      <frequency4>rare</frequency4>
+      <frequency5>very rare</frequency5>
+      <frequency6>exclude</frequency6>
+      <frequency7>exclude</frequency7>
+      <type>mineshaft_section</type>
+    </building>
+    <building>
+      <name>Mineshaft Resting Station</name>
+      <source_x>26</source_x>
+      <source_z>138</source_z>
+      <size_x>7</size_x>
+      <size_z>7</size_z>
+      <pattern>?1? 010 ?1?</pattern>
+      <pattern_position_x>1</pattern_position_x>
+      <pattern_position_z>1</pattern_position_z>
+      <frequency1>average</frequency1>
+      <frequency2>average</frequency2>
+      <frequency3>rare</frequency3>
+      <frequency4>rare</frequency4>
+      <frequency5>very rare</frequency5>
+      <frequency6>exclude</frequency6>
+      <frequency7>exclude</frequency7>
+      <type>mineshaft_section</type>
+    </building>
+    <building>
+      <name>Mineshaft Dungeon</name>
+      <source_x>2</source_x>
+      <source_z>146</source_z>
+      <size_x>7</size_x>
+      <size_z>7</size_z>
+      <pattern>????? ????? ??1?? ????? ?????</pattern>
+      <pattern_position_x>2</pattern_position_x>
+      <pattern_position_z>2</pattern_position_z>
+      <frequency1>exclude</frequency1>
+      <frequency2>exclude</frequency2>
+      <frequency3>very rare</frequency3>
+      <frequency4>rare</frequency4>
+      <frequency5>average</frequency5>
+      <frequency6>common</frequency6>
+      <frequency7>very common</frequency7>
+      <type>mineshaft_section</type>
+    </building>
+    <building>
+      <name>Dispenser Traps</name>
+      <source_x>18</source_x>
+      <source_z>146</source_z>
+      <size_x>7</size_x>
+      <size_z>7</size_z>
+      <pattern>?1? 010 ?1?</pattern>
+      <pattern_position_x>1</pattern_position_x>
+      <pattern_position_z>1</pattern_position_z>
+      <frequency1>exclude</frequency1>
+      <frequency2>exclude</frequency2>
+      <frequency3>very rare</frequency3>
+      <frequency4>rare</frequency4>
+      <frequency5>average</frequency5>
+      <frequency6>common</frequency6>
+      <frequency7>very common</frequency7>
+      <type>mineshaft_section</type>
+      <tags>medieval novv desert</tags>
+    </building>
+    <building>
+      <name>Mineshaft Ghostdancer</name>
+      <source_x>10</source_x>
+      <source_z>146</source_z>
+      <size_x>7</size_x>
+      <size_z>7</size_z>
+      <pattern>?1? 010 ?1?</pattern>
+      <pattern_position_x>1</pattern_position_x>
+      <pattern_position_z>1</pattern_position_z>
+      <frequency1>exclude</frequency1>
+      <frequency2>exclude</frequency2>
+      <frequency3>exclude</frequency3>
+      <frequency4>exclude</frequency4>
+      <frequency5>exclude</frequency5>
+      <frequency6>exclude</frequency6>
+      <frequency7>very common</frequency7>
+      <type>mineshaft_section</type>
+      <unique>yes</unique>
+    </building>
+    <building>
+      <name>Collapsed Area</name>
+      <source_x>26</source_x>
+      <source_z>146</source_z>
+      <size_x>7</size_x>
+      <size_z>7</size_z>
+      <pattern>??? ?1? ???</pattern>
+      <pattern_position_x>1</pattern_position_x>
+      <pattern_position_z>1</pattern_position_z>
+      <frequency1>very rare</frequency1>
+      <frequency2>rare</frequency2>
+      <frequency3>common</frequency3>
+      <frequency4>common</frequency4>
+      <frequency5>common</frequency5>
+      <frequency6>rare</frequency6>
+      <frequency7>very rare</frequency7>
+      <type>mineshaft_section</type>
+      <tags>medieval novv desert</tags>
+    </building>
+
+    <building>
+      <name>Portcullis</name>
+      <size>13</size>
+      <source_x>132</source_x>
+      <source_z>9</source_z>
+      <frequency>very common</frequency>
+      <type>city_entrance</type>
+      <tags>medieval novv desert</tags>
+    </building>
+    <building>
+      <name>Large Doors</name>
+      <size>13</size>
+      <source_x>150</source_x>
+      <source_z>9</source_z>
+      <frequency>very common</frequency>
+      <type>city_entrance</type>
+      <tags>medieval novv desert</tags>
+    </building>
+    <building>
+      <name>Pistons</name>
+      <size>13</size>
+      <source_x>165</source_x>
+      <source_start_y>55</source_start_y>
+      <source_z>9</source_z>
+      <frequency>very common</frequency>
+      <type>city_entrance</type>
+      <tags>medieval novv desert</tags>
+    </building>
+  </buildings>
+</theme>

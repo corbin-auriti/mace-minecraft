@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<buildings>
+
+  <!-- desert -->
+  
+  <building>
+    <name>Ghostdancer's Sandstone Creeper</name>
+    <size>7</size>
+    <source_x>55</source_x>
+    <source_z>54</source_z>
+    <frequency>very common</frequency>
+    <type>mineshaft_entrance</type>
+    <tags>desert</tags>
+  </building>
+
+  <!-- medieval -->
+  
+  <building>
+    <name>Ghostdancer's Cobblestone</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>63</source_z>
+    <frequency>average</frequency>
+    <type>mineshaft_entrance</type>
+    <tags>medieval novv</tags>
+  </building>
+  <building>
+    <name>Ghostdancer's Glowstone</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>68</source_z>
+    <frequency>average</frequency>
+    <type>mineshaft_entrance</type>
+    <tags>medieval novv</tags>
+  </building>
+  <building>
+    <name>Ghostdancer's Iron</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>73</source_z>
+    <frequency>average</frequency>
+    <type>mineshaft_entrance</type>
+    <tags>medieval novv</tags>
+  </building>
+  <building>
+    <name>Ghostdancer's Creeper</name>
+    <size>7</size>
+    <source_x>55</source_x>
+    <source_z>47</source_z>
+    <frequency>average</frequency>
+    <type>mineshaft_entrance</type>
+    <tags>medieval</tags>
+  </building>
+  
+</buildings>

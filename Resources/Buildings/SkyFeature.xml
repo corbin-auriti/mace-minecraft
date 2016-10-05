@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<buildings>
+
+  <!-- desert -->
+
+  <!-- medieval -->
+
+  <building>
+    <name>Balloon</name>
+    <size>11</size>
+    <source_x>5</source_x>
+    <source_start_y>100</source_start_y>
+    <source_z>73</source_z>
+    <frequency>very common</frequency>
+    <type>sky_feature</type>
+    <tags>medieval novv desert</tags>
+  </building>
+  <building>
+    <name>Double Airship</name>
+    <size>23</size>
+    <source_x>1</source_x>
+    <source_start_y>100</source_start_y>
+    <source_z>101</source_z>
+    <frequency>very common</frequency>
+    <type>sky_feature</type>
+    <tags>medieval novv desert</tags>
+  </building>
+  
+</buildings>

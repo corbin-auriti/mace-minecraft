@@ -1,0 +1,9 @@
+World
+Land
+Empire
+Kingdom
+Region
+Realm
+Domain
+Province
+Territory

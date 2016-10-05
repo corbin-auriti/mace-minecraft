@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<buildings>
+  <building>
+    <name>Portcullis</name>
+    <size>13</size>
+    <source_x>132</source_x>
+    <source_z>9</source_z>
+    <frequency>very common</frequency>
+    <type>city_entrance</type>
+    <tags>medieval novv desert</tags>
+  </building>
+  <building>
+    <name>Large Doors</name>
+    <size>13</size>
+    <source_x>150</source_x>
+    <source_z>9</source_z>
+    <frequency>very common</frequency>
+    <type>city_entrance</type>
+    <tags>medieval novv desert</tags>
+  </building>
+  <building>
+    <name>Pistons</name>
+    <size>13</size>
+    <source_x>165</source_x>
+    <source_start_y>55</source_start_y>
+    <source_z>9</source_z>
+    <frequency>very common</frequency>
+    <type>city_entrance</type>
+    <tags>medieval novv desert</tags>
+  </building>
+</buildings>
