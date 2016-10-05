@@ -1,0 +1,14 @@
+﻿// must fit onto a sign (14 * 4 characters max)
+Golden Apple Cider
+Redstone Wine
+Bucket of Lava
+Bucket of Water
+Bucket of Milk
+Dwarven Grog
+Creeper Juice
+Yog Grog
+Elven Wine
+Eggs on the Beach
+Mushroom Stew
+Slime soup
+Red dye no. 2

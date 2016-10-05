@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<buildings>
+  <building>
+    <name>Normal</name>
+    <size>13</size>
+    <source_x>132</source_x>
+    <source_z>9</source_z>
+    <frequency>very common</frequency>
+    <type>city_entrance</type>
+    <tags>medieval novv desert</tags>
+  </building>
+</buildings>

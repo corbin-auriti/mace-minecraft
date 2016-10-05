@@ -1,0 +1,7 @@
+﻿// must fit onto a sign (14 * 4 characters max)
+Laura the Explorer
+Herobrine
+John the Farmer
+Bob the Builder
+Rana
+Granny Bacon

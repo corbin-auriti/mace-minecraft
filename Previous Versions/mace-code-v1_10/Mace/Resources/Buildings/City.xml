@@ -1,0 +1,738 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<buildings>
+  
+  <!-- desert -->
+  
+  <building>
+    <name>Small Sandstone House</name>
+    <size>8</size>
+    <source_x>62</source_x>
+    <source_z>73</source_z>
+    <frequency>very common</frequency>
+    <tags>desert</tags>
+  </building>
+  <building>
+    <name>Medium Sandstone House</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_z>150</source_z>
+    <frequency>common</frequency>
+    <tags>desert</tags>
+  </building>
+  <building>
+    <name>Mosque</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_z>59</source_z>
+    <frequency>average</frequency>
+    <tags>desert</tags>
+  </building>
+  <building>
+    <name>Pyramid</name>
+    <size>12</size>
+    <source_x>100</source_x>
+    <source_start_y>50</source_start_y>
+    <source_z>93</source_z>
+    <frequency>rare</frequency>
+    <tags>desert</tags>
+  </building>
+  <building>
+    <name>Large Sandstone House</name>
+    <size>10</size>
+    <source_x>79</source_x>
+    <source_z>103</source_z>
+    <frequency>common</frequency>
+    <tags>desert</tags>
+  </building>
+  <building>
+    <name>Local Shop</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_z>132</source_z>
+    <frequency>common</frequency>
+    <tags>desert</tags>
+  </building>
+  <building>
+    <name>Sandstone House with Walls</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_z>137</source_z>
+    <frequency>rare</frequency>
+    <tags>desert</tags>
+  </building>
+  <building>
+    <name>Sandstone House with Stairs</name>
+    <size>10</size>
+    <source_x>79</source_x>
+    <source_z>113</source_z>
+    <frequency>common</frequency>
+    <tags>desert</tags>
+  </building>
+  <building>
+    <name>Large Compound</name>
+    <size>17</size>
+    <source_x>170</source_x>
+    <source_z>33</source_z>
+    <frequency>rare</frequency>
+    <tags>desert</tags>
+  </building>
+  
+  <!-- medieval -->
+
+  <building>
+    <name>Rich House 2</name>
+    <size>10</size>
+    <source_x>79</source_x>
+    <source_z>33</source_z>
+    <frequency>very common</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Brick House</name>
+    <size>8</size>
+    <source_x>62</source_x>
+    <source_start_y>58</source_start_y>
+    <source_z>41</source_z>
+    <frequency>very common</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Park 1</name>
+    <size>8</size>
+    <source_x>62</source_x>
+    <source_z>49</source_z>
+    <frequency>very common</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Poor House</name>
+    <size>6</size>
+    <source_x>49</source_x>
+    <source_z>33</source_z>
+    <frequency>very common</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Garden House</name>
+    <size>12</size>
+    <source_x>100</source_x>
+    <source_start_y>57</source_start_y>
+    <source_z>69</source_z>
+    <frequency>very common</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Tall House</name>
+    <size>10</size>
+    <source_x>79</source_x>
+    <source_z>53</source_z>
+    <frequency>very common</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Rich House 1</name>
+    <size>12</size>
+    <source_x>100</source_x>
+    <source_z>45</source_z>
+    <frequency>very common</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Stone and Brick House</name>
+    <size>8</size>
+    <source_x>62</source_x>
+    <source_z>65</source_z>
+    <frequency>very common</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Oak Tree</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>33</source_z>
+    <frequency>common</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Birch Tree</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>38</source_z>
+    <frequency>common</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Spruce Tree</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>43</source_z>
+    <frequency>common</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Oak Tree 2</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>48</source_z>
+    <frequency>common</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Birch Tree 2</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>53</source_z>
+    <frequency>common</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Spruce Tree 2</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>58</source_z>
+    <frequency>common</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Park 2</name>
+    <size>11</size>
+    <source_x>89</source_x>
+    <source_z>55</source_z>
+    <frequency>average</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Mini Farm</name>
+    <size>7</size>
+    <source_x>55</source_x>
+    <source_z>33</source_z>
+    <frequency>average</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Fountain</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_z>42</source_z>
+    <frequency>average</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Bakery</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_z>51</source_z>
+    <frequency>average</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Library</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_z>46</source_z>
+    <frequency>average</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Tent</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_z>78</source_z>
+    <frequency>average</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Wool House With Garden</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_z>124</source_z>
+    <frequency>average</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Wooden House</name>
+    <size>12</size>
+    <source_x>100</source_x>
+    <source_z>105</source_z>
+    <frequency>average</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>coau14's House</name>
+    <size>11</size>
+    <source_x>89</source_x>
+    <source_z>99</source_z>
+    <frequency>average</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Tavern</name>
+    <size>12</size>
+    <source_x>100</source_x>
+    <source_start_y>40</source_start_y>
+    <source_z>57</source_z>
+    <frequency>rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Blacksmith</name>
+    <size>10</size>
+    <source_x>79</source_x>
+    <source_z>93</source_z>
+    <frequency>rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Greenhouse</name>
+    <size>11</size>
+    <source_x>89</source_x>
+    <source_z>44</source_z>
+    <frequency>rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Warehouse</name>
+    <size>10</size>
+    <source_x>79</source_x>
+    <source_z>43</source_z>
+    <frequency>rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Taylor</name>
+    <size>8</size>
+    <source_x>62</source_x>
+    <source_z>81</source_z>
+    <frequency>rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Crafting Hut</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_z>33</source_z>
+    <frequency>rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Tall Library</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_z>69</source_z>
+    <frequency>rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Large Ruins</name>
+    <size>10</size>
+    <source_x>79</source_x>
+    <source_z>123</source_z>
+    <frequency>rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Alchemist</name>
+    <size>11</size>
+    <source_x>89</source_x>
+    <source_z>129</source_z>
+    <frequency>rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Well</name>
+    <size>7</size>
+    <source_x>71</source_x>
+    <source_start_y>53</source_start_y>
+    <source_z>97</source_z>
+    <frequency>very rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Market</name>
+    <size>11</size>
+    <source_x>89</source_x>
+    <source_z>77</source_z>
+    <frequency>very rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Brothel</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_start_y>40</source_start_y>
+    <source_z>60</source_z>
+    <frequency>very rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Statue</name>
+    <size>8</size>
+    <source_x>62</source_x>
+    <source_z>33</source_z>
+    <frequency>very rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Shrine</name>
+    <size>11</size>
+    <source_x>89</source_x>
+    <source_z>88</source_z>
+    <frequency>very rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Baths</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_start_y>55</source_start_y>
+    <source_z>33</source_z>
+    <frequency>very rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Ruins</name>
+    <size>10</size>
+    <source_x>79</source_x>
+    <source_z>63</source_z>
+    <frequency>very rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Mini Ruins</name>
+    <size>7</size>
+    <source_x>55</source_x>
+    <source_z>40</source_z>
+    <frequency>very rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Swimming Pool</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_start_y>50</source_start_y>
+    <source_z>72</source_z>
+    <frequency>very rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Church</name>
+    <size>11</size>
+    <source_x>89</source_x>
+    <source_z>66</source_z>
+    <frequency>very rare</frequency>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Noticeboard</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_z>87</source_z>
+    <frequency>very common</frequency>
+    <unique>yes</unique>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Cathedral</name>
+    <size>19</size>
+    <source_x>21</source_x>
+    <source_start_y>40</source_start_y>
+    <source_z>73</source_z>
+    <frequency>common</frequency>
+    <unique>yes</unique>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Large Fountain</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_z>85</source_z>
+    <frequency>average</frequency>
+    <unique>yes</unique>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Theatre</name>
+    <size>22</size>
+    <source_x>19</source_x>
+    <source_start_y>45</source_start_y>
+    <source_z>99</source_z>
+    <frequency>average</frequency>
+    <unique>yes</unique>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Castle</name>
+    <size>27</size>
+    <source_x>12</source_x>
+    <source_z>40</source_z>
+    <frequency>average</frequency>
+    <unique>yes</unique>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Archery practice</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_z>98</source_z>
+    <frequency>average</frequency>
+    <unique>yes</unique>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Prison</name>
+    <size>12</size>
+    <source_x>100</source_x>
+    <source_start_y>55</source_start_y>
+    <source_z>81</source_z>
+    <frequency>rare</frequency>
+    <unique>yes</unique>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Bank</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_start_y>52</source_start_y>
+    <source_z>111</source_z>
+    <frequency>average</frequency>
+    <unique>yes</unique>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Wizard's Tower</name>
+    <size>33</size>
+    <source_x>35</source_x>
+    <source_z>129</source_z>
+    <frequency>average</frequency>
+    <unique>yes</unique>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Large Park</name>
+    <size>23</size>
+    <source_x>105</source_x>
+    <source_z>1</source_z>
+    <frequency>common</frequency>
+    <unique>yes</unique>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Gallows</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_start_y>58</source_start_y>
+    <source_z>165</source_z>
+    <frequency>common</frequency>
+    <unique>yes</unique>
+    <tags>medieval</tags>
+  </building>
+  <building>
+    <name>Large Market</name>
+    <size>17</size>
+    <source_x>170</source_x>
+    <source_z>50</source_z>
+    <frequency>common</frequency>
+    <unique>yes</unique>
+    <tags>medieval</tags>
+  </building>
+  
+  <!-- novv -->
+
+  <building>
+    <name>Oak Tree</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>33</source_z>
+    <frequency>common</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>Birch Tree</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>38</source_z>
+    <frequency>common</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>Spruce Tree</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>43</source_z>
+    <frequency>common</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>Oak Tree 2</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>48</source_z>
+    <frequency>common</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>Birch Tree 2</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>53</source_z>
+    <frequency>common</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>Spruce Tree 2</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>58</source_z>
+    <frequency>common</frequency>
+    <tags>novv</tags>
+  </building>
+
+  <building>
+    <name>apothecary</name>
+    <size>26</size>
+    <source_x>-27</source_x>
+    <source_z>1</source_z>
+    <frequency>rare</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>barracks</name>
+    <size>24</size>
+    <source_x>-25</source_x>
+    <source_z>28</source_z>
+    <frequency>rare</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>chappel</name>
+    <size>34</size>
+    <source_x>-35</source_x>
+    <source_z>53</source_z>
+    <frequency>very rare</frequency>
+    <unique>yes</unique>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>cottage</name>
+    <size>15</size>
+    <source_x>-16</source_x>
+    <source_z>88</source_z>
+    <frequency>common</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>courthouse</name>
+    <size>40</size>
+    <source_x>-41</source_x>
+    <source_z>104</source_z>
+    <frequency>very rare</frequency>
+    <unique>yes</unique>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>forge</name>
+    <size>25</size>
+    <source_x>-26</source_x>
+    <source_z>145</source_z>
+    <frequency>rare</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>granary</name>
+    <size>16</size>
+    <source_x>-58</source_x>
+    <source_z>1</source_z>
+    <frequency>rare</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>guardtower</name>
+    <size>14</size>
+    <source_x>-56</source_x>
+    <source_z>18</source_z>
+    <frequency>rare</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>house</name>
+    <size>17</size>
+    <source_x>-59</source_x>
+    <source_z>33</source_z>
+    <frequency>common</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>houselarge</name>
+    <size>26</size>
+    <source_x>-68</source_x>
+    <source_z>51</source_z>
+    <frequency>common</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>hovel</name>
+    <size>12</size>
+    <source_x>-54</source_x>
+    <source_z>78</source_z>
+    <frequency>common</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>inn</name>
+    <size>27</size>
+    <source_x>-69</source_x>
+    <source_z>91</source_z>
+    <frequency>rare</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>shop1</name>
+    <size>18</size>
+    <source_x>-60</source_x>
+    <source_z>119</source_z>
+    <frequency>average</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>shop2</name>
+    <size>14</size>
+    <source_x>-56</source_x>
+    <source_z>138</source_z>
+    <frequency>average</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>watchtower</name>
+    <size>14</size>
+    <source_x>-83</source_x>
+    <source_z>1</source_z>
+    <frequency>rare</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>well</name>
+    <size>9</size>
+    <source_x>-78</source_x>
+    <source_z>16</source_z>
+    <frequency>average</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>workshop</name>
+    <size>29</size>
+    <source_x>-98</source_x>
+    <source_z>42</source_z>
+    <frequency>very rare</frequency>
+    <tags>novv</tags>
+  </building>
+  <building>
+    <name>Waterwheel</name>
+    <size>32</size>
+    <source_x>-102</source_x>
+    <source_z>73</source_z>
+    <frequency>rare</frequency>
+    <unique>yes</unique>
+    <tags>novv</tags>
+  </building>
+
+</buildings>

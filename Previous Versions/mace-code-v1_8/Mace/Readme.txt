@@ -39,16 +39,3 @@
         Project Site
         http://code.google.com/p/mace-minecraft/
 
-
-This information is available in other places, but I've decided to put it all here to comply with the [http://www.minecraftforum.net/forum-42/announcement-45-section-specific-rules-read-this-first-12th-august-2011/ forum regulations].
-
-Mace is released under the [http://www.gnu.org/licenses/gpl.html GNU GPL V3].
-
-Mace uses the [http://code.google.com/p/substrate-minecraft/ Substrate] SDK, which is released under the [http://www.opensource.org/licenses/mit-license.php MIT License].
-
-Substrate uses the [http://dotnetzip.codeplex.com/ DotNetZip] library, which is released under the [http://dotnetzip.codeplex.com/license Microsoft Public License].
-
-Mace uses buildings created by coau14. He has licensed these under the [http://www.gnu.org/licenses/gpl.html GNU GPL V3].
-
-These are all open source licenses.
-

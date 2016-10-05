@@ -1,0 +1,17 @@
+﻿// must fit onto a sign (14 * 4 characters max)
+Royal Bakery
+Bakes & Cakes
+Half Baked~Bakery
+Granny Bacon's~Bakery
+Nice Buns~Bakery
+The Upper Crust
+Master Bakers
+Bread Bug~Bakery
+Cherry on Top~Bakery
+Flour Power~Bakery
+Baked Goodness
+Lying Cake~Bakery
+Bake Shop
+Bread Shack
+Oh Crumbs!~Bakery
+[Closed]~Back in five minutes!

@@ -1,0 +1,16 @@
+﻿Road
+Street
+Way
+Boulevard
+Passage
+Place
+Trail
+Terrace
+View
+Avenue
+Alley
+Approach
+Lane
+Drive
+Pathway
+Row

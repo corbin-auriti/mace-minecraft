@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+
+<resources>
+
+  <levels>
+    <!-- level 1 is the highest level -->
+    <level1>
+      <!-- chances can add up to anything -->
+      <!-- for example, 10 gravel and 5 sand would give 67% gravel and 33% sand -->
+      <chances>10,10,10,10,10,5,5,5</chances>
+      <names>Gravel,Sand,Dirt,Sandstone,Cobblestone,Wood,Torches,Coal</names>
+      <torch_chance>12</torch_chance>
+    </level1>
+    <level2>
+      <chances>10,10,10,10,10,10,10,10,5</chances>
+      <names>Gravel,Sand,Dirt,Sandstone,Cobblestone,Wood,Torches,Coal,Iron</names>
+      <torch_chance>10</torch_chance>
+    </level2>
+    <level3>
+      <chances>5,5,5,5,5,10,10,10,10,5</chances>
+      <names>Gravel,Sand,Dirt,Sandstone,Cobblestone,Wood,Torches,Coal,Iron,Lapis</names>
+      <torch_chance>8</torch_chance>
+    </level3>
+    <level4>
+      <chances>5,5,5,5,10,10,10,10,5</chances>
+      <names>Dirt,Sandstone,Cobblestone,Wood,Torches,Coal,Iron,Lapis,Redstone</names>
+      <torch_chance>6</torch_chance>
+    </level4>
+    <level5>
+      <chances>5,5,5,10,10,10,10,5</chances>
+      <names>Cobblestone,Wood,Torches,Coal,Iron,Lapis,Redstone,Gold</names>
+      <torch_chance>4</torch_chance>
+    </level5>
+    <level6>
+      <chances>5,5,10,10,10,10,5,</chances>
+      <names>Torches,Coal,Iron,Lapis,Redstone,Gold,Diamond</names>
+      <torch_chance>2</torch_chance>
+    </level6>
+    <level7>
+      <chances>5,10,10,10,10,5</chances>
+      <names>Iron,Lapis,Redstone,Gold,Diamond,Obsidian</names>
+      <torch_chance>0</torch_chance>
+    </level7>
+  </levels>
+
+  <!-- block ids, see the minecraft wiki for details -->
+  <ids>
+    <gravel id="13" />
+    <sand id="12" />
+    <dirt id="3" />
+    <sandstone id="24" />
+    <cobblestone id="4" />
+    <wood id="17" />
+    <torches id="50" />
+    <coal id="263" />
+    <iron id="15" />
+    <lapis id="21" />
+    <redstone id="331" />
+    <gold id="14" />
+    <diamond id="264" />
+    <obsidian id="49" />
+  </ids>
+
+  <!-- the amount of each block to include
+       will be a random number from the lowest to highest number -->
+  <amounts>
+    <gravel rand="32,64" />
+    <sand rand="32,64" />
+    <dirt rand="32,64" />
+    <sandstone rand="5,20" />
+    <cobblestone rand="15,30" />
+    <wood rand="10,20" />
+    <torches rand="10,30" />
+    <coal rand="4,8" />
+    <iron rand="2,6" />
+    <lapis rand="1,5" />
+    <redstone rand="4,16" />
+    <gold rand="1,4" />
+    <diamond rand="1,3" />
+    <obsidian rand="1,3" />
+  </amounts>
+
+</resources>
+

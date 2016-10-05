@@ -1,0 +1,537 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  name:
+    can be anything, as long as it's unique.
+    
+  size:
+    all buildings must be square.
+    size includes the outside blocks with torches.
+    
+  source_x and source_z:
+    location within the source world.
+    this is the lowest x and z.
+    the front-right corner of the building.
+    
+  source_start_y:
+    defaults to ground level (63).
+    you only need to specify this if your building has an underground area.
+    
+  frequency:
+    very common
+    common
+    average
+    rare
+    very rare
+    unique
+    exclude
+    
+    unique buildings appear a maximum of once per city
+   
+  to denote a farm building, use <farm>yes</farm>
+  to denote a mineshaft entrance, use <mineshaft_entrance>yes</mineshaft_entrance>
+   
+-->
+<buildings>
+
+  <building>
+    <name>Rich House 2</name>
+    <size>10</size>
+    <source_x>79</source_x>
+    <source_z>33</source_z>
+    <frequency>very common</frequency>
+  </building>
+  <building>
+    <name>Brick House</name>
+    <size>8</size>
+    <source_x>62</source_x>
+    <source_start_y>58</source_start_y>
+    <source_z>41</source_z>
+    <frequency>very common</frequency>
+  </building>
+  <building>
+    <name>Park 1</name>
+    <size>8</size>
+    <source_x>62</source_x>
+    <source_z>49</source_z>
+    <frequency>very common</frequency>
+  </building>
+  <building>
+    <name>Poor House</name>
+    <size>6</size>
+    <source_x>49</source_x>
+    <source_z>33</source_z>
+    <frequency>very common</frequency>
+  </building>
+  <building>
+    <name>Garden House</name>
+    <size>12</size>
+    <source_x>100</source_x>
+    <source_start_y>57</source_start_y>
+    <source_z>69</source_z>
+    <frequency>very common</frequency>
+  </building>
+  <building>
+    <name>Tall House</name>
+    <size>10</size>
+    <source_x>79</source_x>
+    <source_z>53</source_z>
+    <frequency>very common</frequency>
+  </building>
+  <building>
+    <name>Rich House 1</name>
+    <size>12</size>
+    <source_x>100</source_x>
+    <source_z>45</source_z>
+    <frequency>very common</frequency>
+  </building>
+  <building>
+    <name>Stone and Brick House</name>
+    <size>8</size>
+    <source_x>62</source_x>
+    <source_z>65</source_z>
+    <frequency>very common</frequency>
+  </building>
+
+  <building>
+    <name>Oak Tree</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>33</source_z>
+    <frequency>common</frequency>
+  </building>
+  <building>
+    <name>Birch Tree</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>38</source_z>
+    <frequency>common</frequency>
+  </building>
+  <building>
+    <name>Spruce Tree</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>43</source_z>
+    <frequency>common</frequency>
+  </building>
+  <building>
+    <name>Oak Tree 2</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>48</source_z>
+    <frequency>common</frequency>
+  </building>
+  <building>
+    <name>Birch Tree 2</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>53</source_z>
+    <frequency>common</frequency>
+  </building>
+  <building>
+    <name>Spruce Tree 2</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>58</source_z>
+    <frequency>common</frequency>
+  </building>
+  <building>
+    <name>Large Sandstone House</name>
+    <size>14</size>
+    <source_x>99</source_x>
+    <source_z>130</source_z>
+    <frequency>common</frequency>
+  </building>
+  <building>
+    <name>Small Sandstone House</name>
+    <size>8</size>
+    <source_x>62</source_x>
+    <source_z>73</source_z>
+    <frequency>common</frequency>
+  </building>
+  
+  <building>
+    <name>Wooden House</name>
+    <size>12</size>
+    <source_x>100</source_x>
+    <source_start_y>50</source_start_y>
+    <source_z>105</source_z>
+    <frequency>rare</frequency>
+    <unique>yes</unique>
+  </building>
+  <building>
+    <name>Park 2</name>
+    <size>11</size>
+    <source_x>89</source_x>
+    <source_z>55</source_z>
+    <frequency>average</frequency>
+  </building>
+  <building>
+    <name>Mini Farm</name>
+    <size>7</size>
+    <source_x>55</source_x>
+    <source_z>33</source_z>
+    <frequency>average</frequency>
+  </building>
+  <building>
+    <name>Fountain</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_z>42</source_z>
+    <frequency>average</frequency>
+  </building>
+  <building>
+    <name>Bakery</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_z>51</source_z>
+    <frequency>average</frequency>
+  </building>
+  <building>
+    <name>Library</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_z>46</source_z>
+    <frequency>average</frequency>
+  </building>
+  <building>
+    <name>Tent</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_z>78</source_z>
+    <frequency>average</frequency>
+  </building>
+  
+  <building>
+    <name>Apartments</name>
+    <size>10</size>
+    <source_x>79</source_x>
+    <source_z>73</source_z>
+    <frequency>rare</frequency>
+  </building>  
+  <building>
+    <name>Tavern</name>
+    <size>12</size>
+    <source_x>100</source_x>
+    <source_start_y>40</source_start_y>
+    <source_z>57</source_z>
+    <frequency>rare</frequency>
+  </building>
+  <building>
+    <name>Blacksmith</name>
+    <size>10</size>
+    <source_x>79</source_x>
+    <source_z>83</source_z>
+    <frequency>rare</frequency>
+  </building>
+  <building>
+    <name>Greenhouse</name>
+    <size>11</size>
+    <source_x>89</source_x>
+    <source_z>44</source_z>
+    <frequency>rare</frequency>
+  </building>
+  <building>
+    <name>coau14's House</name>
+    <size>11</size>
+    <source_x>89</source_x>
+    <source_z>99</source_z>
+    <frequency>rare</frequency>
+  </building>
+  <building>
+    <name>Warehouse</name>
+    <size>10</size>
+    <source_x>79</source_x>
+    <source_z>43</source_z>
+    <frequency>rare</frequency>
+  </building>
+  <building>
+    <name>Taylor</name>
+    <size>8</size>
+    <source_x>62</source_x>
+    <source_z>81</source_z>
+    <frequency>rare</frequency>
+  </building>
+  <building>
+    <name>Crafting Hut</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_z>33</source_z>
+    <frequency>rare</frequency>
+  </building>
+  <building>
+    <name>Tall Library</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_z>69</source_z>
+    <frequency>rare</frequency>
+  </building>
+  
+  <building>
+    <name>Well</name>
+    <size>9</size>
+    <source_x>71</source_x>
+    <source_start_y>53</source_start_y>
+    <source_z>97</source_z>
+    <frequency>very rare</frequency>
+  </building>  
+  <building>
+    <name>Market</name>
+    <size>11</size>
+    <source_x>89</source_x>
+    <source_z>77</source_z>
+    <frequency>very rare</frequency>
+  </building>
+  <building>
+    <name>Brothel</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_start_y>40</source_start_y>
+    <source_z>60</source_z>
+    <frequency>very rare</frequency>
+  </building>
+  <building>
+    <name>Statue</name>
+    <size>8</size>
+    <source_x>62</source_x>
+    <source_z>33</source_z>
+    <frequency>very rare</frequency>
+  </building>
+  <building>
+    <name>Shrine</name>
+    <size>11</size>
+    <source_x>89</source_x>
+    <source_z>88</source_z>
+    <frequency>very rare</frequency>
+  </building>
+  <building>
+    <name>Baths</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_start_y>55</source_start_y>
+    <source_z>33</source_z>
+    <frequency>very rare</frequency>
+  </building>
+  <building>
+    <name>Mosque</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_z>59</source_z>
+    <frequency>very rare</frequency>
+  </building>
+  <building>
+    <name>Ruins</name>
+    <size>10</size>
+    <source_x>79</source_x>
+    <source_z>63</source_z>
+    <frequency>very rare</frequency>
+  </building>
+  <building>
+    <name>Mini Ruins</name>
+    <size>7</size>
+    <source_x>55</source_x>
+    <source_z>40</source_z>
+    <frequency>very rare</frequency>
+  </building>
+  <building>
+    <name>Swimming Pool</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_start_y>50</source_start_y>
+    <source_z>72</source_z>
+    <frequency>very rare</frequency>
+  </building>
+  <building>
+    <name>Church</name>
+    <size>11</size>
+    <source_x>89</source_x>
+    <source_z>66</source_z>
+    <frequency>very rare</frequency>
+  </building>
+
+  <building>
+    <name>Noticeboard</name>
+    <size>9</size>
+    <source_x>70</source_x>
+    <source_z>87</source_z>
+    <frequency>very common</frequency>
+    <unique>yes</unique>
+  </building>
+  <building>
+    <name>Cathedral</name>
+    <size>19</size>
+    <source_x>21</source_x>
+    <source_start_y>40</source_start_y>
+    <source_z>73</source_z>
+    <frequency>common</frequency>
+    <unique>yes</unique>
+  </building>
+  <building>
+    <name>Large Fountain</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_z>85</source_z>
+    <frequency>average</frequency>
+    <unique>yes</unique>
+  </building>
+  <building>
+    <name>Theatre</name>
+    <size>22</size>
+    <source_x>19</source_x>
+    <source_start_y>45</source_start_y>
+    <source_z>99</source_z>
+    <frequency>average</frequency>
+    <unique>yes</unique>
+  </building>
+  <building>
+    <name>Castle</name>
+    <size>27</size>
+    <source_x>12</source_x>
+    <source_z>40</source_z>
+    <frequency>average</frequency>
+    <unique>yes</unique>
+  </building>
+  <building>
+    <name>coau14's Igloo</name>
+    <size>12</size>
+    <source_x>100</source_x>
+    <source_z>118</source_z>
+    <frequency>average</frequency>
+    <unique>yes</unique>
+  </building>  
+  <building>
+    <name>Archery practice</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_z>98</source_z>
+    <frequency>average</frequency>
+    <unique>yes</unique>
+  </building>
+  <building>
+    <name>Pyramid</name>
+    <size>12</size>
+    <source_x>100</source_x>
+    <source_start_y>50</source_start_y>
+    <source_z>93</source_z>
+    <frequency>rare</frequency>
+    <unique>yes</unique>
+  </building>
+  <building>
+    <name>Prison</name>
+    <size>12</size>
+    <source_x>100</source_x>
+    <source_start_y>55</source_start_y>
+    <source_z>81</source_z>
+    <frequency>rare</frequency>
+    <unique>yes</unique>
+  </building>
+  <building>
+    <name>Bank</name>
+    <size>13</size>
+    <source_x>112</source_x>
+    <source_start_y>55</source_start_y>
+    <source_z>111</source_z>
+    <frequency>average</frequency>
+    <unique>yes</unique>
+  </building>
+
+  <!-- the size of mineshaft entrances should be an odd number -->
+  <building>
+    <name>Ghostdancer's Cobblestone Mineshaft Entrance</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>63</source_z>
+    <frequency>average</frequency>
+    <mineshaft_entrance>yes</mineshaft_entrance>
+  </building>
+  <building>
+    <name>Ghostdancer's Glowstone Mineshaft Entrance</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>68</source_z>
+    <frequency>average</frequency>
+    <mineshaft_entrance>yes</mineshaft_entrance>
+  </building>
+  <building>
+    <name>Ghostdancer's Iron Mineshaft Entrance</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>73</source_z>
+    <frequency>average</frequency>
+    <mineshaft_entrance>yes</mineshaft_entrance>
+  </building>
+  <building>
+    <name>Ghostdancer's Creeper Mineshaft Entrance</name>
+    <size>7</size>
+    <source_x>55</source_x>
+    <source_z>47</source_z>
+    <frequency>average</frequency>
+    <mineshaft_entrance>yes</mineshaft_entrance>
+  </building>
+
+  <building>
+    <name>Windmill</name>
+    <size>19</size>
+    <source_x>86</source_x>
+    <source_z>7</source_z>
+    <frequency>very common</frequency>
+    <unique>yes</unique>
+    <farm>yes</farm>
+  </building>
+  <building>
+    <name>Barn</name>
+    <size>15</size>
+    <source_x>47</source_x>
+    <source_start_y>60</source_start_y>
+    <source_z>8</source_z>
+    <frequency>common</frequency>
+    <farm>yes</farm>
+  </building>
+  <building>
+    <name>Mushroom Farm</name>
+    <size>12</size>
+    <source_x>22</source_x>
+    <source_start_y>40</source_start_y>
+    <source_z>19</source_z>
+    <frequency>common</frequency>
+    <farm>yes</farm>
+  </building>
+  <building>
+    <name>Farm Building</name>
+    <size>12</size>
+    <source_x>70</source_x>
+    <source_z>12</source_z>
+    <frequency>average</frequency>
+    <farm>yes</farm>
+  </building>
+
+  <building>
+    <name>Graveyard</name>
+    <size>11</size>
+    <source_x>89</source_x>
+    <source_start_y>40</source_start_y>
+    <source_z>33</source_z>
+    <frequency>exclude</frequency>
+  </building>
+  <building>
+    <name>City Square</name>
+    <size>12</size>
+    <source_x>100</source_x>
+    <source_z>33</source_z>
+    <frequency>exclude</frequency>
+  </building>
+  <building>
+    <name>Light</name>
+    <size>5</size>
+    <source_x>44</source_x>
+    <source_z>48</source_z>
+    <frequency>exclude</frequency>
+  </building>
+  <building>
+    <name>Rotation Contraption</name>
+    <size>8</size>
+    <source_x>62</source_x>
+    <source_z>57</source_z>
+    <frequency>exclude</frequency>
+  </building>
+
+</buildings>

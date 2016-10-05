@@ -1,0 +1,5 @@
+﻿// must fit onto a sign (14 * 4 characters max)
+R.I.P.
+Rest in Peace
+Never Forgotten
+In Loving Memory

@@ -1,0 +1,8 @@
+﻿Tavern
+Inn
+Alehouse
+Grogshop
+Meadhall
+Saloon
+Lodge
+Dive

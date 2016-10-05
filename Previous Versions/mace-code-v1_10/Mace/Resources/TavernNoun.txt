@@ -1,0 +1,16 @@
+// max fourteen letters
+Cross
+Creeper
+Shield
+Pickaxe
+Cauldron
+Dungeon
+Pigman
+Chicken
+Bottle
+Sword
+Dragon
+Perch
+Bush
+Pony
+Haven

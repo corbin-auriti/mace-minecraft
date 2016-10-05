@@ -1,0 +1,7 @@
+﻿// must fit onto a sign (14 * 4 characters max)
+House of Knowledge
+Public Library
+The Great Library
+City Library
+Recorded Herobrine Sightings
+Government Records

@@ -1,0 +1,6 @@
+﻿// these are used on all houses, so mansion, manor, estate, etc wouldn't make sense
+House
+Home
+Residence
+Abode
+Lodging

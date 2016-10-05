@@ -1,0 +1,11 @@
+﻿ Scorpion
+ Cactus
+ Oasis
+ Viper
+ Dunes
+ Boulder
+ Vulture
+ Camel
+ Lizard
+ Snake
+ Spider

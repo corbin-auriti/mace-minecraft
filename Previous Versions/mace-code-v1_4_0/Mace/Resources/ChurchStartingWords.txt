@@ -1,0 +1,10 @@
+﻿// max seven letters
+Good
+Evil
+Blessed
+Cursed
+Mystical
+Magical
+Sacred
+Holy
+Divine

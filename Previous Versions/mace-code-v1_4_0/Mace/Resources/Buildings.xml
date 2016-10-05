@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  name:
+    can be anything.
+    
+  size:
+    all buildings must be square.
+    size includes the outside blocks
+      with torches.
+    
+  source_x and source_z:
+    location within the source world
+    
+  frequency:
+    very common
+    common
+    average
+    rare
+    very rare
+    exclude    
+-->
+<buildings>
+
+  <building>
+    <name>House</name>
+    <size>8</size>
+    <source_x>26</source_x>
+    <source_z>9</source_z>
+    <frequency>very common</frequency>
+  </building>
+  <building>
+    <name>Oak Tree</name>
+    <size>5</size>
+    <source_x>8</source_x>
+    <source_z>1</source_z>
+    <frequency>very common</frequency>
+  </building>
+  <building>
+    <name>Birch Tree</name>
+    <size>5</size>
+    <source_x>8</source_x>
+    <source_z>6</source_z>
+    <frequency>very common</frequency>
+  </building>
+  <building>
+    <name>Spruce Tree</name>
+    <size>5</size>
+    <source_x>8</source_x>
+    <source_z>11</source_z>
+    <frequency>very common</frequency>
+  </building>
+
+  <building>
+    <name>Park 1</name>
+    <size>8</size>
+    <source_x>26</source_x>
+    <source_z>17</source_z>
+    <frequency>common</frequency>
+  </building>
+  <building>
+    <name>Rich House 2</name>
+    <size>10</size>
+    <source_x>43</source_x>
+    <source_z>1</source_z>
+    <frequency>common</frequency>
+  </building>
+  <building>
+    <name>Poor House</name>
+    <size>6</size>
+    <source_x>13</source_x>
+    <source_z>1</source_z>
+    <frequency>common</frequency>
+  </building>
+
+  <building>
+    <name>Rich House 1</name>
+    <size>12</size>
+    <source_x>64</source_x>
+    <source_z>13</source_z>
+    <frequency>average</frequency>
+  </building>
+  <building>
+    <name>Greenhouse</name>
+    <size>11</size>
+    <source_x>53</source_x>
+    <source_z>12</source_z>
+    <frequency>average</frequency>
+  </building>
+  <building>
+    <name>Park 2</name>
+    <size>11</size>
+    <source_x>53</source_x>
+    <source_z>23</source_z>
+    <frequency>average</frequency>
+  </building>
+  <building>
+    <name>Tall House</name>
+    <size>10</size>
+    <source_x>43</source_x>
+    <source_z>21</source_z>
+    <frequency>average</frequency>
+  </building>
+  <building>
+    <name>Mini Farm</name>
+    <size>7</size>
+    <source_x>19</source_x>
+    <source_z>1</source_z>
+    <frequency>average</frequency>
+  </building>
+
+  <building>
+    <name>Tavern</name>
+    <size>12</size>
+    <source_x>64</source_x>
+    <source_z>25</source_z>
+    <frequency>rare</frequency>
+  </building>
+  <building>
+    <name>Church</name>
+    <size>11</size>
+    <source_x>53</source_x>
+    <source_z>34</source_z>
+    <frequency>rare</frequency>
+  </building>
+  <building>
+    <name>Warehouse</name>
+    <size>10</size>
+    <source_x>43</source_x>
+    <source_z>11</source_z>
+    <frequency>rare</frequency>
+  </building>
+  <building>
+    <name>Crafting Hut</name>
+    <size>9</size>
+    <source_x>34</source_x>
+    <source_z>1</source_z>
+    <frequency>rare</frequency>
+  </building>
+  <building>
+    <name>Fountain</name>
+    <size>9</size>
+    <source_x>34</source_x>
+    <source_z>10</source_z>
+    <frequency>rare</frequency>
+  </building>
+  <building>
+    <name>Bakery</name>
+    <size>9</size>
+    <source_x>34</source_x>
+    <source_z>19</source_z>
+    <frequency>rare</frequency>
+  </building>
+  <building>
+    <name>Tall Library</name>
+    <size>9</size>
+    <source_x>34</source_x>
+    <source_z>37</source_z>
+    <frequency>rare</frequency>
+  </building>
+
+  <building>
+    <name>Graveyard</name>
+    <size>11</size>
+    <source_x>53</source_x>
+    <source_z>1</source_z>
+    <frequency>very rare</frequency>
+  </building>
+  <building>
+    <name>Brothel</name>
+    <size>9</size>
+    <source_x>34</source_x>
+    <source_z>28</source_z>
+    <frequency>very rare</frequency>
+  </building>
+  <building>
+    <name>Statue</name>
+    <size>8</size>
+    <source_x>26</source_x>
+    <source_z>1</source_z>
+    <frequency>very rare</frequency>
+  </building>
+
+  <building>
+    <name>Mushroom Farm</name>
+    <size>12</size>
+    <source_x>-14</source_x>
+    <source_z>-13</source_z>
+    <frequency>exclude</frequency>
+  </building>
+  <building>
+    <name>City Square</name>
+    <size>12</size>
+    <source_x>64</source_x>
+    <source_z>1</source_z>
+    <frequency>exclude</frequency>
+  </building>
+  <building>
+    <name>Light</name>
+    <size>5</size>
+    <source_x>8</source_x>
+    <source_z>16</source_z>
+    <frequency>exclude</frequency>
+  </building>
+  
+</buildings>
